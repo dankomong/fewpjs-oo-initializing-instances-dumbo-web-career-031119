@@ -5,10 +5,10 @@ class Breakfast {
   }
 }
 
-class Lunch() {
+class Lunch {
   
 }
 
-class Dinner() {
+class Dinner {
   
 }
